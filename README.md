@@ -46,8 +46,7 @@ I am a student of computer systems engineering at the ITT university (Instituto 
 <a href= "https://www.linkedin.com/in/cesar-gonzalez-salazar-153468263/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="cesaraquiles2000@gmail.com" >
+<a href="href="mailto:cesaraquiles2000@gmail.com" >
   <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge">
 </a>
-- 📫 Reach out to me at: <a href="cesaraquiles2000@gmail.com">cesaraquiles2000@gmail.com</a>
 

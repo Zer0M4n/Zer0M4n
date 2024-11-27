@@ -49,3 +49,5 @@ I am a student of computer systems engineering at the ITT university (Instituto 
 <a href="cesaraquiles2000@gmail.com" >
   <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge">
 </a>
+- 📫 Reach out to me at: <a href="cesaraquiles2000@gmail.com">cesaraquiles2000@gmail.com</a>
+
